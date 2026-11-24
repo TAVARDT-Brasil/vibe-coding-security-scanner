@@ -56,12 +56,11 @@ O repositório fornece configurações homologadas para proteger o ecossistema d
 
 ***
 
-## Governança e Soberania
+## Links Úteis
 
-* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
-* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
-* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
-* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+* **Portal Corporativo:** https://ag.tavardt.com/br/
+* **Suíte de Diagnósticos:** https://tools.tavardt.com/br/
+* **Contato Técnico:** https://ag.tavardt.com/br/contato/
 
 ***
 
