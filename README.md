@@ -54,8 +54,6 @@ O repositório fornece configurações homologadas para proteger o ecossistema d
 * **Portal TAVARDT:** [Portal Institucional](https://ag.tavardt.com/br/)
 * **Ferramentas:** [Central de Ferramentas](https://tools.tavardt.com/br/)
 
-&copy; 2026 TAVARDT. Todos os direitos reservados.
-
 ***
 
 © 2026 TAVARDT. Todos os direitos reservados.
